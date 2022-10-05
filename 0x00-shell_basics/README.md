@@ -1,2 +1,2 @@
-#!/bin/basg
-prints the absolute path name of the current working directory
+#!/bin/bash
+prints the absolute path name of the currnet working directory
